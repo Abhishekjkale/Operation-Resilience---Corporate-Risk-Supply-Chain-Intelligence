@@ -1,0 +1,6 @@
+{
+  "name": "Operation Resilience - Corporate Risk & Supply Chain Intelligence",
+  "description": "Enterprise-grade supply chain intelligence and corporate risk analysis platform for real-time geopolitical threat modeling, predictive risk scoring, and automated rerouting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
